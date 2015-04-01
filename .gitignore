@@ -3,3 +3,7 @@ smartdashboard/lib/NetworkTables*
 dist/
 build/
 target/
+/smartdashboard/nbproject/private/
+smartdashboard/bin/
+*.DS_Store
+smartdashboard/.settings/
